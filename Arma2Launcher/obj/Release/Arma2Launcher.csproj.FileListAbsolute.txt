@@ -1,0 +1,9 @@
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\bin\Release\Arma2Launcher.exe.config
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\bin\Release\Arma2Launcher.exe
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\bin\Release\Arma2Launcher.pdb
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\obj\Release\Arma2Launcher.csprojResolveAssemblyReference.cache
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\obj\Release\Arma2Launcher.Form1.resources
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\obj\Release\Arma2Launcher.Properties.Resources.resources
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\obj\Release\Arma2Launcher.csproj.GenerateResource.Cache
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\obj\Release\Arma2Launcher.exe
+c:\users\postalx\documents\visual studio 2013\Projects\Arma2Launcher\Arma2Launcher\obj\Release\Arma2Launcher.pdb
